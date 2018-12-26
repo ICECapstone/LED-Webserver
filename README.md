@@ -1,4 +1,4 @@
-# Lecture1a_LEDcontrol_Webserver
+# Lecture1c_LEDcontrol_Webserver
 This lecture demonstrates how we can use NodeMCU to allow control of LED through a web browser.
 
 You will learn:
