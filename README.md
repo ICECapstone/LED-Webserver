@@ -5,6 +5,9 @@ You will learn:
 a) How a NodeMCU can connect to the Internet 
 b) How a webserver can be added to NodeMCU
 
+Please add your ssid and password in the code:
+- const char* ssid = "add_your_WiFi_ssid";
+- const char* password = "add_your_WiFi_password";
 
 ![led_webserver](https://user-images.githubusercontent.com/11530521/50459843-0e40f200-09a2-11e9-842d-f014de4ee35d.png)
 
