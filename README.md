@@ -7,3 +7,5 @@ b) How a webserver can be added to NodeMCU
 
 
 ![led_webserver](https://user-images.githubusercontent.com/11530521/50459843-0e40f200-09a2-11e9-842d-f014de4ee35d.png)
+
+Note: Do not forget to select baud rate of 115000!
