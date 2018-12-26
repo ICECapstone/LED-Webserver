@@ -2,8 +2,8 @@
 This lecture demonstrates how we can use NodeMCU to allow control of LED through a web browser.
 
 You will learn:
-a) How a NodeMCU can connect to the Internet 
-b) How a webserver can be added to NodeMCU
+- How a NodeMCU can connect to the Internet 
+- How a webserver can be added to NodeMCU
 
 Please add your ssid and password in the code:
 - const char* ssid = "add_your_WiFi_ssid";
